@@ -1,6 +1,6 @@
 <?php
 
-require 'library/autoload.php';
+require 'vendor/autoload.php';
 
 // -----------------------------------------------------------------------------
 
@@ -38,7 +38,7 @@ $finder = new Finder();
 
 $iterator = $finder
   ->directories()
-  ->in('/Users/julioantuneztarin/Sites/tuguucms.dev')
+  ->in('/Users/julioantuneztarin/Sites')
   ->depth(0)
   ->exclude('HTMLPurifier')
   ->size('>= 1K');
