@@ -1,6 +1,6 @@
 <?php
 
-require 'library/autoload.php';
+require 'vendor/autoload.php';
 
 // -----------------------------------------------------------------------------
 
@@ -12,6 +12,7 @@ error_reporting(-1);
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 use Symfony\Component\Finder\Finder;
+use User\Base as BaseUser;
 
 // -----------------------------------------------------------------------------
 
@@ -37,7 +38,7 @@ $finder = new Finder();
 
 $iterator = $finder
   ->directories()
-  ->in('/Users/julioantuneztarin/Sites/tuguucms.dev')
+  ->in('/Users/julioantuneztarin/Sites')
   ->depth(0)
   ->exclude('HTMLPurifier')
   ->size('>= 1K');
@@ -47,5 +48,13 @@ foreach ($iterator as $file) {
     print $file->getRealpath()."\n";
 }
 echo "</pre>";
+
+/**
+ * Testing new module
+ */
+$newModule = new BaseUser('Julio');
+echo $newModule->getName();
+
+
 // -----------------------------------------------------------------------------
 
