@@ -12,6 +12,7 @@ error_reporting(-1);
 use Monolog\Logger;
 use Monolog\Handler\StreamHandler;
 use Symfony\Component\Finder\Finder;
+use User\Base as BaseUser;
 
 // -----------------------------------------------------------------------------
 
@@ -47,5 +48,13 @@ foreach ($iterator as $file) {
     print $file->getRealpath()."\n";
 }
 echo "</pre>";
+
+/**
+ * Testing new module
+ */
+$newModule = new BaseUser('Julio');
+echo $newModule->getName();
+
+
 // -----------------------------------------------------------------------------
 

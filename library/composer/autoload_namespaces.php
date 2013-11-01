@@ -6,6 +6,7 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
+    'User\\' => array($baseDir . '/src'),
     'Symfony\\Component\\Finder\\' => array($vendorDir . '/symfony/finder'),
     'Psr\\Log\\' => array($vendorDir . '/psr/log'),
     'Monolog' => array($vendorDir . '/monolog/monolog/src'),
