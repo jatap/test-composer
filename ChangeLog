@@ -1,3 +1,22 @@
+commit 7ac809240e772047a132e234b04e8e39f1c1906f
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:11:14 2013 +0100
+
+    - Update test environment with tools include in local configuration file.
+
+commit 2b8ddcb370ca4201bb48385910e70745f99748e5
+Merge: 94db8dc c2f6c79
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:06:12 2013 +0100
+
+    Merge branch 'release-1.0.0' into develop
+
+commit c2f6c79956e26db15a34441b47d80b755826a967
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:06:02 2013 +0100
+
+    - Bumped to version 1.0.0.
+
 commit 94db8dc0d5e82de0d837d521cf7788afb6b4b1d6
 Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
 Date:   Fri Nov 1 19:04:59 2013 +0100

@@ -1,6 +1,9 @@
-Julio Antúnez Tarín (4):
+Julio Antúnez Tarín (7):
       - First sending.
       - Add a modular structure inside an src directory.
       - Add testing environment.
       - Add a README file.
+      - Bumped to version 1.0.0.
+      Merge branch 'release-1.0.0' into develop
+      - Update test environment with tools include in local configuration file.
 
