@@ -1,0 +1,14 @@
+default:
+  paths:
+    features: features
+    bootstrap: %behat.paths.features%/bootstrap
+  formatter:
+    name:                     pretty,html
+    parameters:
+      decorated:              true
+      verbose:                false
+      time:                   true
+      language:               en
+      output_path:            null
+      multiline_arguments:    true
+      output_path:            null,%behat.paths.base%/tests/behat_report.html
