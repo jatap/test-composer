@@ -1,0 +1,23 @@
+commit 94db8dc0d5e82de0d837d521cf7788afb6b4b1d6
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:04:59 2013 +0100
+
+    - Add a README file.
+
+commit c07ab7e43274c2c9be75a175b515f06433601bc4
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:00:45 2013 +0100
+
+    - Add testing environment.
+
+commit 4d423bda0a0155adaef2375dd0526866ccb3b555
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 17:16:50 2013 +0100
+
+    - Add a modular structure inside an src directory.
+
+commit d64d099a71e33fbcb3ef19f975441edfbcd3800e
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 15:09:02 2013 +0100
+
+    - First sending.
