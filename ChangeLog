@@ -1,3 +1,29 @@
+commit 6027c32bc6a8b9ceb292a222e659c7f4cccc4174
+Merge: 7c926da 084bff0
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 21:55:22 2013 +0100
+
+    - Merge branch 'feature-testing' into develop
+
+commit 084bff0ce25d3761d3ba65399f6e50140190bc59
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 21:55:16 2013 +0100
+
+    - Test behat.
+
+commit 7c926da4098199d25606d7c2f098209391c6e1eb
+Merge: 7ac8092 79af3ea
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:12:27 2013 +0100
+
+    Merge branch 'release-1.0.1' into develop
+
+commit 79af3ea1e0b66c22281268c903b11d0db9836deb
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 19:12:21 2013 +0100
+
+    - Bumped to version 1.0.1.
+
 commit 7ac809240e772047a132e234b04e8e39f1c1906f
 Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
 Date:   Fri Nov 1 19:11:14 2013 +0100
