@@ -1,3 +1,29 @@
+commit e2a62aae0563800cc8cbd2edbec4f2fed6b9656a
+Merge: 2386f44 13a741e
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Mon Nov 4 22:49:59 2013 +0100
+
+    - Merge branch 'feature-behat-report' into develop
+
+commit 13a741e40c43e23f1ad97cea28911aefa69068fa
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Mon Nov 4 22:49:50 2013 +0100
+
+    - Add behat report.
+
+commit 2386f44705d06a314b1d40b79407235badf39c64
+Merge: 6027c32 6c24190
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 21:56:23 2013 +0100
+
+    - Merge branch 'release-1.0.2' into develop
+
+commit 6c2419001ba590712039699dd4f9788488097bba
+Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
+Date:   Fri Nov 1 21:56:03 2013 +0100
+
+    - Bumped to version 1.0.2.
+
 commit 6027c32bc6a8b9ceb292a222e659c7f4cccc4174
 Merge: 7c926da 084bff0
 Author: Julio Antúnez Tarín <julio.antunez.tarin@gmail.com>
